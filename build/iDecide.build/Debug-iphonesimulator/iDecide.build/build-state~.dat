@@ -1,0 +1,256 @@
+TiDecide
+v7
+r0
+t353649178.639424
+cCheck dependencies
+cProcessInfoPlistFile /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist iDecide-Info.plist
+cCompileXIB /Users/twer/Workspace/headfirstiphone/iDecide/MainWindow.xib
+cCompileXIB /Users/twer/Workspace/headfirstiphone/iDecide/iDecideViewController.xib
+cProcessPCH /var/folders/Qx/Qx89S7RcE-8i-KpNGg13PU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-frjfraobpbqtwsabdsvmalrovffx/iDecide_Prefix.pch.gch iDecide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o /Users/twer/Workspace/headfirstiphone/iDecide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o /Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o /Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide normal i386
+cGenerateDSYMFile /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+cTouch /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideAppDelegate.h
+c000000004F6408C300000000000001D8
+t1331955907
+s472
+i<UIKit/UIKit.h>
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideAppDelegate.m
+c000000004F6408C30000000000000A84
+t1331955907
+s2692
+i"iDecideAppDelegate.h"
+i"iDecideViewController.h"
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideViewController.h
+c000000004F6408C300000000000000E7
+t1331955907
+s231
+i<UIKit/UIKit.h>
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideViewController.m
+c000000004F6408C300000000000005B2
+t1331955907
+s1458
+i"iDecideViewController.h"
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/MainWindow.xib
+c000000004F6408C30000000000004E29
+t1331955907
+s20009
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app
+t1331956378
+s238
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM
+t1331956378
+s102
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist
+t1331956374
+s591
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/MainWindow.nib
+t1331956375
+s1681
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/PkgInfo
+t1331956374
+s8
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+t1331956378
+s17108
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecideViewController.nib
+t1331956375
+s3156
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecide.LinkFileList
+c000000004F640A9600000000000001A2
+t1331956374
+s418
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o
+t1331956378
+s47800
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o
+t1331956378
+s34464
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o
+t1331956378
+s6316
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/iDecideViewController.xib
+c000000004F640A880000000000004B73
+t1331956360
+s19315
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/iDecide_Prefix.pch
+c000000004F6408C300000000000000B7
+t1331955907
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/twer/Workspace/headfirstiphone/iDecide/main.m
+c000000004F6408C30000000000000162
+t1331955907
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/Qx/Qx89S7RcE-8i-KpNGg13PU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-frjfraobpbqtwsabdsvmalrovffx/iDecide_Prefix.pch.gch
+t1331956377
+s15211536
+
+NiDecide-Info.plist
+c000000004F6408C3000000000000038D
+t1331955907
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353649174#353649174#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o /Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353649177.860640
+e353649178.083135
+r1
+xCompileC
+xbuild/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o
+x/Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideAppDelegate.m353649177#353649178#0(0"0(0#0#74"/Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideAppDelegate.m8608913440#2089"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-generated-files.hmap -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-own-target-headers.hmap -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-all-target-headers.hmap -iquote /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-project-headers.hmap -F/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator -I/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/include -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources/i386 -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources -include /var/folders/Qx/Qx89S7RcE-8i-KpNGg13PU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-frjfraobpbqtwsabdsvmalrovffx/iDecide_Prefix.pch -c /Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideAppDelegate.m -o /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o0#
+
+CCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o /Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353649178.076819
+e353649178.159104
+r1
+xCompileC
+xbuild/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o
+x/Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideViewController.m353649178#353649178#0(0"0(0#0#77"/Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideViewController.m8593607616#2095"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-generated-files.hmap -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-own-target-headers.hmap -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-all-target-headers.hmap -iquote /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-project-headers.hmap -F/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator -I/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/include -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources/i386 -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources -include /var/folders/Qx/Qx89S7RcE-8i-KpNGg13PU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-frjfraobpbqtwsabdsvmalrovffx/iDecide_Prefix.pch -c /Users/twer/Workspace/headfirstiphone/iDecide/Classes/iDecideViewController.m -o /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o0#
+
+CCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o /Users/twer/Workspace/headfirstiphone/iDecide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353649177.858439
+e353649178.076689
+r1
+xCompileC
+xbuild/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o
+x/Users/twer/Workspace/headfirstiphone/iDecide/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/twer/Workspace/headfirstiphone/iDecide/main.m353649177#353649178#0(0"0(0#0#52"/Users/twer/Workspace/headfirstiphone/iDecide/main.m8609211872#2053"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-generated-files.hmap -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-own-target-headers.hmap -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-all-target-headers.hmap -iquote /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-project-headers.hmap -F/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator -I/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/include -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources/i386 -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources -include /var/folders/Qx/Qx89S7RcE-8i-KpNGg13PU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-frjfraobpbqtwsabdsvmalrovffx/iDecide_Prefix.pch -c /Users/twer/Workspace/headfirstiphone/iDecide/main.m -o /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/twer/Workspace/headfirstiphone/iDecide/MainWindow.xib
+s353649174.602136
+e353649175.748486
+r1
+xCompileXIB
+x/Users/twer/Workspace/headfirstiphone/iDecide/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib353649174#353649175#0(0"0(0#0#60"/Users/twer/Workspace/headfirstiphone/iDecide/MainWindow.xib8606519296#653"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/MainWindow.nib /Users/twer/Workspace/headfirstiphone/iDecide/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/twer/Workspace/headfirstiphone/iDecide/iDecideViewController.xib
+s353649174.622740
+e353649175.818893
+r1
+xCompileXIB
+x/Users/twer/Workspace/headfirstiphone/iDecide/iDecideViewController.xib
+lSLF07#2@36"CompileXIB iDecideViewController.xib353649174#353649175#0(0"0(0#0#71"/Users/twer/Workspace/headfirstiphone/iDecide/iDecideViewController.xib8603986528#675"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecideViewController.nib /Users/twer/Workspace/headfirstiphone/iDecide/iDecideViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+s353649178.548549
+e353649178.608473
+r1
+xGenerateDSYMFile
+x/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM
+x/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/iDecide.app.dSYM build/Debug-iphonesimulator/iDecide.app/iDecide353649178#353649178#0(0"0(0#0#93"/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide8609235072#466"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide -o /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM0#
+
+CLd /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide normal i386
+s353649178.159188
+e353649178.548436
+r1
+xLd
+x/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+xnormal
+xi386
+lSLF07#2@98"Link /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide353649178#353649178#0(0"0(0#0#0"8606477632#997"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator -F/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator -filelist /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecide.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide0#
+
+CProcessInfoPlistFile /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist iDecide-Info.plist
+s353649174.529725
+e353649174.602020
+r1
+xProcessInfoPlistFile
+x/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist
+xiDecide-Info.plist
+lSLF07#2@26"Process iDecide-Info.plist353649174#353649174#0(0"0(0#0#64"/Users/twer/Workspace/headfirstiphone/iDecide/iDecide-Info.plist27584981513797680#562"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility iDecide-Info.plist -genpkginfo /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist0#
+
+CProcessPCH /var/folders/Qx/Qx89S7RcE-8i-KpNGg13PU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-frjfraobpbqtwsabdsvmalrovffx/iDecide_Prefix.pch.gch iDecide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353649175.819078
+e353649177.858232
+r1
+xProcessPCH
+x/var/folders/Qx/Qx89S7RcE-8i-KpNGg13PU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-frjfraobpbqtwsabdsvmalrovffx/iDecide_Prefix.pch.gch
+xiDecide_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iDecide_Prefix.pch353649175#353649177#0(0"0(0#0#64"/Users/twer/Workspace/headfirstiphone/iDecide/iDecide_Prefix.pch8609310880#1938"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-generated-files.hmap -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-own-target-headers.hmap -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-all-target-headers.hmap -iquote /Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-project-headers.hmap -F/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator -I/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/include -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources/i386 -I/Users/twer/Workspace/headfirstiphone/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources -c /Users/twer/Workspace/headfirstiphone/iDecide/iDecide_Prefix.pch -o /var/folders/Qx/Qx89S7RcE-8i-KpNGg13PU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-frjfraobpbqtwsabdsvmalrovffx/iDecide_Prefix.pch.gch0#
+
+CTouch /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app
+s353649178.608553
+e353649178.639349
+r1
+xTouch
+x/Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app
+lSLF07#2@91"Touch /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app353649178#353649178#0(0"0(0#0#0"8608989088#354"    cd /Users/twer/Workspace/headfirstiphone/iDecide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/twer/Workspace/headfirstiphone/iDecide/build/Debug-iphonesimulator/iDecide.app0#
+
